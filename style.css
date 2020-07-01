@@ -122,6 +122,43 @@ header {
     font-weight: 300;
 }
 
+/* main */
+* {
+  background-color: #000000;
+  font-family: sans-serif;
+}
+
+.main-wrapper {
+  margin-top: 50;
+  text-align: center;
+  color: c0c0c0;
+}
+
+.container {
+  width: 100%;
+}
+
+.heading {
+  height: 60;
+}
+
+.main {
+  float: left;
+  width: 33.3%;
+}
+
+.main-icon p {
+  font-weight: bold;
+  line-height: 4;
+}
+
+.txt-contents {
+  font-size: 15px;
+  display: inline-block;
+  margin: 2px 15px;
+}
+/* akhir main */
+
 /* button */
 .btn-wrapper {
     margin: 40px 0;
